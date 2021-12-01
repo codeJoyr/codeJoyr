@@ -30,7 +30,7 @@
 
 ### About me~
 
-I'm HangQiao, a Front-end developer.   
+I'm QiaoHang, a Front-end developer.   
 
 - 🔭 **I’m currently striving for a better life.**    
 - 🤔 My blog 👉 http://joyr.cc/         
