@@ -23,7 +23,6 @@
 
 [![Angola peng's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeJoyr&show_icons=true&theme=radical)](https://github.com/codeJoyr/github-readme-stats)
 
-![Angola peng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeJoyr&layout=compact&hide_border=true&langs_count=10)
 
 ### About me~
 
