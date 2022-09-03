@@ -31,4 +31,4 @@ I'm QiaoHang, a Front-end developer.
 - 🔭 **I’m currently striving for a better life.**    
 - 🤔 My blog 👉 http://joyr.cc/         
 - :email: My E-mail: 13844492207@139.com        
-- My Wechat:   <u>EtherealAries</u>
+- My Wechat:   <u>freedomjoyr</u>
